@@ -1,10 +1,10 @@
  <h1 align="center">Hi 👋, I'm SundaRAM VISHWAkarma</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
+- 🔭 I’m a professional in Flutter
+- 🌱 I have good understanding in Backend development
+- 💬 I have knowledge about the SQL, NoSQL such as MySQL or MongoDB.
 - 📫 How to reach me: sundaram1105001@gmail.com
-- 😄 My website:
+- 😄 My website: comming soon
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
