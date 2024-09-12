@@ -27,7 +27,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,flutter,dart,firebase,github,git,vscode,postman,html,css,js,nodejs,express,mongodb,mysql,idea,figma,blender,windows,kali,xd&perline=5)](https://skillicons.dev)
 
 ![SundaRAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=5undaram900d&show_icons=true&theme=dark)
 
