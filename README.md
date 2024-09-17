@@ -4,8 +4,8 @@
 - 🌱 I have good understanding in Backend development
 - 💬 I have knowledge about the SQL, NoSQL such as MySQL or MongoDB.
 - 📫 How to reach me: [Connect me Via LinkedIn](https://www.linkedin.com/in/sundaram-sharma-883b36226/)
-- 😄 My website: comming soon
-- ⚡ Fun fact: I'm comming to teen
+- 😄 My website: [Blog Education](https://king-blog.odoo.com/)
+- ⚡ My Grocery App: [Grocery App](https://my-grocery-app-163f2.web.app/)
   
 ### Connect with me:
 <div id="badges">
