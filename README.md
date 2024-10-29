@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm SundaRAM VISHWAkarma</h1>
 
-- 🔭 I’m a professional in Flutter
+- 🔭 I’m a professional in Java for Data Structure & Algorithm and Flutter for Cross-Plateform Application Development.
 - 🌱 I have good understanding in Backend development
 - 💬 I have knowledge about the SQL, NoSQL such as MySQL or MongoDB.
 - 📫 How to reach me: [Connect me Via LinkedIn](https://www.linkedin.com/in/sundaram-sharma-883b36226/)
