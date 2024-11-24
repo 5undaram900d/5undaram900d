@@ -12,12 +12,12 @@
   <a href="https://github.com/5undaram900d">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-<!--  <a href="https://www.linkedin.com/in/sundaram-sharma-883b36226/">
+ <a href="https://www.linkedin.com/in/sundaram-sharma-883b36226/">
     <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> -->
-  <a href="https://leetcode.com/u/KING_VISHWAkarma/">
-    <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
+<!--   <a href="https://leetcode.com/u/KING_VISHWAkarma/">
+    <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a> -->
    <a href="https://www.hackerrank.com/profile/sundaram1105001">
     <img src="https://img.shields.io/badge/Hackerrank-purple?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
